@@ -9928,5 +9928,28 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main .banner img {
+  width: 100vw;
+  height: 9em;
+}
+main .profile {
+  display: inline;
+}
+main .profile img {
+  height: 4em;
+  width: 4em;
+  border-radius: 50%;
+  margin: 1em 1em;
+}
+main .profile p {
+  display: inline;
+  padding-left: 0.3em;
+}
 
 /*# sourceMappingURL=main.css.map */
