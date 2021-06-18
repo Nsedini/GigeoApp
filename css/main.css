@@ -9964,4 +9964,22 @@ p {
   padding: 16px;
 }
 
+.images {
+  max-width: 1000px;
+}
+
+img {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .images {
+    max-width: 576px;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
