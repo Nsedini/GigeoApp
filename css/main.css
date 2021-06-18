@@ -9972,6 +9972,15 @@ img {
   width: 100%;
 }
 
+.place {
+  font-size: 0.98em;
+  font-weight: 500;
+}
+
+.visits {
+  font-size: 0.8em;
+}
+
 @media (max-width: 576px) {
   .images {
     max-width: 576px;
